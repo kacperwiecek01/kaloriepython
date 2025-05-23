@@ -21,7 +21,7 @@ class Meal:
         print(f"\nPosilek: {self.name}")
         print("Skladniki")
         for food in self.fooditems:
-            food.display_info()
+            food.displayinfo()
         print(f"Lacznie: {self.get_total_calories()} kcal\n")
 
 class DailyIntake:
