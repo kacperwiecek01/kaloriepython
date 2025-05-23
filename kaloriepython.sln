@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kaloriepython", "kaloriepython.pyproj", "{CDC3D4F9-A90E-4A2F-8EF7-B21DA9068C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC3D4F9-A90E-4A2F-8EF7-B21DA9068C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC3D4F9-A90E-4A2F-8EF7-B21DA9068C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50747954-916E-4D4E-B574-77461BC42DF2}
+	EndGlobalSection
+EndGlobal
